@@ -1,4 +1,4 @@
-# introdu-o-java-script
+# introdu-o-scratch
 
 Equipe: Luiziene Alves
 
